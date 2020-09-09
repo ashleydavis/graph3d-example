@@ -1,0 +1,17 @@
+{
+  "name": "graph3d-example",
+  "version": "1.0.0",
+  "description": "An example of rendering a 3D graph with graph3d.",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "ashley@codecapers.com.au",
+  "readme": "https://github.com/ashleydavis/graph3d-example",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "vis-graph3d": "^6.0.0"
+  }
+}

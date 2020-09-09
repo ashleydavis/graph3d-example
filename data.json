@@ -1,0 +1,9122 @@
+[
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 2,
+        "result": 27.86573536905185
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 3,
+        "result": 35.91627097070368
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 4,
+        "result": 36.183834609485054
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 5,
+        "result": 38.50397659350234
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 6,
+        "result": 34.90003292460522
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 7,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 8,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 9,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 10,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 11,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 12,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 13,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 14,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 15,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 16,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 17,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 18,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 19,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 5,
+        "stopLossPct": 20,
+        "result": 42.20696369496176
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 2,
+        "result": 14.198229177400517
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 3,
+        "result": 26.971046193292715
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 4,
+        "result": 24.501414248729326
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 5,
+        "result": 28.818099571989713
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 6,
+        "result": 26.90955834095341
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 7,
+        "result": 30.984640850678698
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 8,
+        "result": 29.576203852284376
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 9,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 10,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 11,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 12,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 13,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 14,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 15,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 16,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 17,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 18,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 19,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 6,
+        "stopLossPct": 20,
+        "result": 32.140363019141496
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 2,
+        "result": 12.174260834638298
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 3,
+        "result": 26.82193569600551
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 4,
+        "result": 26.569845577852615
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 5,
+        "result": 35.01249523830098
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 6,
+        "result": 30.116820580880738
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 7,
+        "result": 34.2948887004284
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 8,
+        "result": 32.850857639133466
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 9,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 10,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 11,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 12,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 13,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 14,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 15,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 16,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 17,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 18,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 19,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 7,
+        "stopLossPct": 20,
+        "result": 35.47981831488048
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 2,
+        "result": 14.29921848131291
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 3,
+        "result": 24.048904940512603
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 4,
+        "result": 23.025982402582525
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 5,
+        "result": 34.02106497450963
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 6,
+        "result": 28.602430899869468
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 7,
+        "result": 31.90779143908734
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 8,
+        "result": 30.48942809027989
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 9,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 10,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 11,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 12,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 13,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 14,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 15,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 16,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 17,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 18,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 19,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 8,
+        "stopLossPct": 20,
+        "result": 33.071658880102135
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 2,
+        "result": 23.08441974167705
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 3,
+        "result": 34.747525326172834
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 4,
+        "result": 19.566312236250198
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 5,
+        "result": 33.60543152124326
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 6,
+        "result": 26.437770921085228
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 7,
+        "result": 24.02277659098314
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 8,
+        "result": 23.924374553962828
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 9,
+        "result": 22.577370482724017
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 10,
+        "result": 14.313188105499957
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 11,
+        "result": 13.043041570994394
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 12,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 13,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 14,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 15,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 16,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 17,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 18,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 19,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 9,
+        "stopLossPct": 20,
+        "result": 23.573322882109952
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 2,
+        "result": 18.884239158784386
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 3,
+        "result": 32.020058730245196
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 4,
+        "result": 20.50311628288844
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 5,
+        "result": 26.413171923931568
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 6,
+        "result": 18.372083984194344
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 7,
+        "result": 22.108581641282964
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 8,
+        "result": 22.011698363054276
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 9,
+        "result": 20.6854842504123
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 10,
+        "result": 15.558054005051236
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 11,
+        "result": 14.274075627217353
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 12,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 13,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 14,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 15,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 16,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 17,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 18,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 19,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 10,
+        "stopLossPct": 20,
+        "result": 21.66606490030632
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 2,
+        "result": 20.934087708962707
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 3,
+        "result": 32.715839596498775
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 4,
+        "result": 21.037839120917308
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 5,
+        "result": 38.74171940089105
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 6,
+        "result": 31.298507366582218
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 7,
+        "result": 28.790671705361436
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 8,
+        "result": 28.688486729396732
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 9,
+        "result": 27.289698830164234
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 10,
+        "result": 20.638018961765756
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 11,
+        "result": 19.297596528857174
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 12,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 13,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 14,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 15,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 16,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 17,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 18,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 19,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 11,
+        "stopLossPct": 20,
+        "result": 28.32393933041114
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 2,
+        "result": 30.30710733476195
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 3,
+        "result": 38.96958884543601
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 4,
+        "result": 27.550119512844923
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 5,
+        "result": 45.64170903702017
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 6,
+        "result": 37.82832654412097
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 7,
+        "result": 35.195769637219584
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 8,
+        "result": 35.08850273436103
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 9,
+        "result": 33.62014944377019
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 10,
+        "result": 26.63766408764253
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 11,
+        "result": 25.23057893111325
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 12,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 13,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 14,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 15,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 16,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 17,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 18,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 19,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 12,
+        "stopLossPct": 20,
+        "result": 34.70582543698771
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 2,
+        "result": 23.235532668260074
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 3,
+        "result": 31.427914074244217
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 4,
+        "result": 20.628162512148847
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 5,
+        "result": 37.73794813650132
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 6,
+        "result": 30.34858639601225
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 7,
+        "result": 27.85889447254678
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 8,
+        "result": 27.75744878641488
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 9,
+        "result": 26.36878086482335
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 10,
+        "result": 19.765224698081855
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 11,
+        "result": 18.434499979214234
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 12,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 13,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 14,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 15,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 16,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 17,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 18,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 19,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 13,
+        "stopLossPct": 20,
+        "result": 27.39553882197446
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 2,
+        "result": 15.352767228093562
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 3,
+        "result": 21.645842046866893
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 4,
+        "result": 19.05982889624549
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 5,
+        "result": 23.85709459754138
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 6,
+        "result": 15.258531849499887
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 7,
+        "result": 12.55312756411453
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 8,
+        "result": 18.841001402706606
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 9,
+        "result": 17.549251387459844
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 10,
+        "result": 11.40657058779414
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 11,
+        "result": 10.168719803485345
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 12,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 13,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 14,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 15,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 16,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 17,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 18,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 19,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 14,
+        "stopLossPct": 20,
+        "result": 18.50434985713904
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 2,
+        "result": 7.233236255951415
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 3,
+        "result": 15.582334196125174
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 4,
+        "result": 11.137342195330111
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 5,
+        "result": 17.260359255847543
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 6,
+        "result": 9.119763352192987
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 7,
+        "result": 6.558451224959408
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 8,
+        "result": 12.511427497046135
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 9,
+        "result": 11.288477198165129
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 10,
+        "result": 5.472960858925217
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 11,
+        "result": 4.301039071603845
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 12,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 13,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 14,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 15,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 16,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 17,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 18,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 19,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 15,
+        "stopLossPct": 20,
+        "result": 12.192706302224305
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 2,
+        "result": 12.422908072365734
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 3,
+        "result": 18.48373496816679
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 4,
+        "result": 15.571233583601899
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 5,
+        "result": 21.938532107744376
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 6,
+        "result": 13.385875166144231
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 7,
+        "result": 10.724426788707078
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 8,
+        "result": 16.91013874150218
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 9,
+        "result": 15.639376363877219
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 10,
+        "result": 9.596498434060976
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 11,
+        "result": 8.378759562571394
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 12,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 13,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 14,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 15,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 16,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 17,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 18,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 19,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 16,
+        "stopLossPct": 20,
+        "result": 16.578956923482455
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 2,
+        "result": 12.353130319513948
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 3,
+        "result": 14.703817936923533
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 4,
+        "result": 12.957011046540194
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 5,
+        "result": 18.89263773173021
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 6,
+        "result": 10.55361703150611
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 7,
+        "result": 14.327094788520462
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 8,
+        "result": 14.23638549041363
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 9,
+        "result": 12.994685648126596
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 10,
+        "result": 7.090009286495097
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 11,
+        "result": 5.900120294422977
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 12,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 13,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 14,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 15,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 16,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 17,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 18,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 19,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 17,
+        "stopLossPct": 20,
+        "result": 13.912777852633262
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 2,
+        "result": 11.297815060361936
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 3,
+        "result": 13.626423039179553
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 4,
+        "result": 11.89602363082151
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 5,
+        "result": 17.77589790933005
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 6,
+        "result": 9.515204317271946
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 7,
+        "result": 13.25323839198094
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 8,
+        "result": 13.163381112026038
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 9,
+        "result": 11.933344360808388
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 10,
+        "result": 6.084129694343483
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 11,
+        "result": 4.905417142184105
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 12,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 13,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 14,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 15,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 16,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 17,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 18,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 19,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 18,
+        "stopLossPct": 20,
+        "result": 12.842813069823913
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 2,
+        "result": 9.95456009733858
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 3,
+        "result": 12.946991588328856
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 4,
+        "result": 11.226939137563459
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 5,
+        "result": 17.0716545911701
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 6,
+        "result": 8.860355980333406
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 7,
+        "result": 12.57603840613212
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 8,
+        "result": 12.486718429565427
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 9,
+        "result": 11.264036707504983
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 10,
+        "result": 5.449797536183487
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 11,
+        "result": 4.278133119114791
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 12,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 13,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 14,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 15,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 16,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 17,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 18,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 19,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 19,
+        "stopLossPct": 20,
+        "result": 12.168067230331507
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 2,
+        "result": 6.502492679372699
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 3,
+        "result": 6.649325437301104
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 4,
+        "result": 5.025179180625983
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 5,
+        "result": 10.544006656545426
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 6,
+        "result": 2.790551292264063
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 7,
+        "result": 6.299055756862872
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 8,
+        "result": 6.214716058080722
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 9,
+        "result": 5.060208274840643
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 10,
+        "result": -0.42984220665117395
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 11,
+        "result": -1.5361772932439088
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 12,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 13,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 14,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 15,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 16,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 17,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 18,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 19,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 20,
+        "stopLossPct": 20,
+        "result": 5.913832121552732
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 2,
+        "result": 13.586196739373008
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 3,
+        "result": 12.474963500705272
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 4,
+        "result": 10.667341366369692
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 5,
+        "result": 16.4826512661917
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 6,
+        "result": 8.31266480901908
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 7,
+        "result": 12.009653134089458
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 8,
+        "result": 11.920782538402964
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 9,
+        "result": 10.704252293420323
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 10,
+        "result": 4.919265345586137
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 11,
+        "result": 3.7534957306352044
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 12,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 13,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 14,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 15,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 16,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 17,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 18,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 19,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 21,
+        "stopLossPct": 20,
+        "result": 11.603734516441145
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 2,
+        "result": 23.057697888750372
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 3,
+        "result": 21.415491482163507
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 4,
+        "result": 18.259956690217386
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 5,
+        "result": 25.33129304910144
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 6,
+        "result": 16.540670962975494
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 7,
+        "result": 20.51850218618174
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 8,
+        "result": 20.42288050732772
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 9,
+        "result": 19.113936153987307
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 10,
+        "result": 12.88949082618181
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 11,
+        "result": 11.63516315033541
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 12,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 13,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 14,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 15,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 16,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 17,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 18,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 19,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 22,
+        "stopLossPct": 20,
+        "result": 20.08174783118082
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 2,
+        "result": 22.424405118950926
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 3,
+        "result": 22.3763588062439
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 4,
+        "result": 19.671398482398473
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 5,
+        "result": 26.323149547028716
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 6,
+        "result": 17.46295955471738
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 7,
+        "result": 21.956899894733578
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 8,
+        "result": 21.860136963696313
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 9,
+        "result": 20.535570257569162
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 10,
+        "result": 14.236835690069311
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 11,
+        "result": 12.967537515735184
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 12,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 13,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 14,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 15,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 16,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 17,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 18,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 19,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 23,
+        "stopLossPct": 20,
+        "result": 21.51493284249507
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 2,
+        "result": 24.409419382157267
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 3,
+        "result": 35.14834771891019
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 4,
+        "result": 20.593210794737423
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 5,
+        "result": 28.00150416672732
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 6,
+        "result": 19.02359591882836
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 7,
+        "result": 23.942784696704365
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 8,
+        "result": 23.844446126778983
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 9,
+        "result": 22.498310842792307
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 10,
+        "result": 16.097010850457483
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 11,
+        "result": 14.807044063230315
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 12,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 13,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 14,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 15,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 16,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 17,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 18,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 19,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 24,
+        "stopLossPct": 20,
+        "result": 23.493620875338603
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 2,
+        "result": 22.698595003170414
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 3,
+        "result": 30.369776734180192
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 4,
+        "result": 11.719273525618245
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 5,
+        "result": 23.53015814123388
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 6,
+        "result": 14.865866007636214
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 7,
+        "result": 20.27734034539835
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 8,
+        "result": 20.181910008949654
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 9,
+        "result": 18.875584900156774
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 10,
+        "result": 12.66359491046018
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 11,
+        "result": 11.411777189232907
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 12,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 13,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 14,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 15,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 16,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 17,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 18,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 19,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 25,
+        "stopLossPct": 20,
+        "result": 19.841459951509734
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 2,
+        "result": 22.38964471909454
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 3,
+        "result": 30.059671888153588
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 4,
+        "result": 14.856154270730823
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 5,
+        "result": 23.58566216600515
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 6,
+        "result": 14.917477030953815
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 7,
+        "result": 19.7614295646107
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 8,
+        "result": 20.00961493168048
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 9,
+        "result": 17.414889088994023
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 10,
+        "result": 12.180342096175554
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 11,
+        "result": 10.933893850662535
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 12,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 13,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 14,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 15,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 16,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 17,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 18,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 19,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 26,
+        "stopLossPct": 20,
+        "result": 19.327418811285334
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 2,
+        "result": 28.654126661642206
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 3,
+        "result": 17.611004498359417
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 4,
+        "result": 37.25748343269856
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 5,
+        "result": 22.812883936527943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 6,
+        "result": 14.198900758597155
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 7,
+        "result": 22.930434517736668
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 8,
+        "result": 23.185187113173562
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 9,
+        "result": 15.49294036439247
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 10,
+        "result": 15.148744035251765
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 11,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 12,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 13,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 14,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 15,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 16,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 17,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 18,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 19,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 27,
+        "stopLossPct": 20,
+        "result": 23.878178575763943
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 2,
+        "result": 28.004318587261512
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 3,
+        "result": 17.016973180887256
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 4,
+        "result": 36.56422140280427
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 5,
+        "result": 22.19257889314742
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 6,
+        "result": 13.62210334273588
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 7,
+        "result": 22.309535748225553
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 8,
+        "result": 22.563001635666478
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 9,
+        "result": 14.90960699507017
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 10,
+        "result": 14.567149137595061
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 11,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 12,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 13,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 14,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 15,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 16,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 17,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 18,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 19,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 28,
+        "stopLossPct": 20,
+        "result": 23.25249292722039
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 2,
+        "result": 30.864234546607623
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 3,
+        "result": 19.63140613758662
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 4,
+        "result": 38.06231998082347
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 5,
+        "result": 24.922646990435297
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 6,
+        "result": 16.160686964528615
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 7,
+        "result": 23.651261565576643
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 8,
+        "result": 23.907507953515122
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 9,
+        "result": 16.170156186298755
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 10,
+        "result": 15.823941593537874
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 11,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 12,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 13,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 14,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 15,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 16,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 17,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 18,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 19,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 29,
+        "stopLossPct": 20,
+        "result": 24.604562909349735
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 2,
+        "result": 31.58218982428927
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 3,
+        "result": 25.941407394733197
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 4,
+        "result": 35.43441144458711
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 5,
+        "result": 20.584271274423173
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 6,
+        "result": 14.177843205504814
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 7,
+        "result": 21.732448448915058
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 8,
+        "result": 21.98471842024406
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 9,
+        "result": 14.367434429702133
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 10,
+        "result": 14.02659237494334
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 11,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 12,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 13,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 14,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 15,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 16,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 17,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 18,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 19,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 30,
+        "stopLossPct": 20,
+        "result": 22.670956517638626
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 2,
+        "result": 26.507538724542286
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 3,
+        "result": 21.084300955078998
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 4,
+        "result": 30.211194032727274
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 5,
+        "result": 15.933770278413759
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 6,
+        "result": 9.774415064026853
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 7,
+        "result": 17.03766639504365
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 8,
+        "result": 17.280207222260124
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 9,
+        "result": 9.956694437618426
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 10,
+        "result": 9.628997433191563
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 11,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 12,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 13,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 14,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 15,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 16,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 17,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 18,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 19,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 31,
+        "stopLossPct": 20,
+        "result": 17.939979588081915
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 2,
+        "result": 23.755877357469362
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 3,
+        "result": 19.378219908458977
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 4,
+        "result": 28.376514817959343
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 5,
+        "result": 13.412098605480333
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 6,
+        "result": 7.386715326366083
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 7,
+        "result": 15.388602537861152
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 8,
+        "result": 15.62772595831986
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 9,
+        "result": 8.407401665150738
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 10,
+        "result": 8.0843219203015
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 11,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 12,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 13,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 14,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 15,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 16,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 17,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 18,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 19,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 32,
+        "stopLossPct": 20,
+        "result": 16.278202113819315
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 2,
+        "result": 22.526361167872
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 3,
+        "result": 22.88079251797808
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 4,
+        "result": 9.663208992950969
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 5,
+        "result": 23.78507420467222
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 6,
+        "result": 18.455493090786803
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 7,
+        "result": 16.918865899475733
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 8,
+        "result": 17.16116053269876
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 9,
+        "result": 14.628021074111347
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 10,
+        "result": 9.517717196453795
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 11,
+        "result": 8.300853672048742
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 12,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 13,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 14,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 15,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 16,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 17,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 18,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 19,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 33,
+        "stopLossPct": 20,
+        "result": 16.495156486090618
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 2,
+        "result": 21.955494019965847
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 3,
+        "result": 25.941704846168996
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 4,
+        "result": 11.327436549905396
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 5,
+        "result": 25.663612444824444
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 6,
+        "result": 20.253150643257086
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 7,
+        "result": 18.69320389618957
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 8,
+        "result": 18.939175545699253
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 9,
+        "result": 16.36759365476559
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 10,
+        "result": 11.179736798167104
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 11,
+        "result": 9.944406389298656
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 12,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 13,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 14,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 15,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 16,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 17,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 18,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 19,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 34,
+        "stopLossPct": 20,
+        "result": 18.263064351054943
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 2,
+        "result": 19.423485844050756
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 3,
+        "result": 22.128674667364574
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 4,
+        "result": 11.442438355960913
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 5,
+        "result": 28.288260680441603
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 6,
+        "result": 20.559284695407843
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 7,
+        "result": 18.99536671917687
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 8,
+        "result": 19.24196455018269
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 9,
+        "result": 16.663836063334383
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 10,
+        "result": 11.462772237662994
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 11,
+        "result": 10.224296990577786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 12,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 13,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 14,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 15,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 16,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 17,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 18,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 19,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 35,
+        "stopLossPct": 20,
+        "result": 18.56413214774786
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 2,
+        "result": 25.324075854787953
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 3,
+        "result": 31.008658262404825
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 4,
+        "result": 19.055484772001183
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 5,
+        "result": 25.377616433167532
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 6,
+        "result": 16.583745267317283
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 7,
+        "result": 21.01512840972844
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 8,
+        "result": 21.265911856239892
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 9,
+        "result": 18.64402363912126
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 10,
+        "result": 13.354679826128995
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 11,
+        "result": 12.095183383616531
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 12,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 13,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 14,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 15,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 16,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 17,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 18,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 19,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 36,
+        "stopLossPct": 20,
+        "result": 20.576574300648318
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 2,
+        "result": 26.723560028762382
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 3,
+        "result": 31.695639582573694
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 4,
+        "result": 18.3467414708837
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 5,
+        "result": 25.943144923259716
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 6,
+        "result": 17.5856634246692
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 7,
+        "result": 22.05512977689994
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 8,
+        "result": 22.308068450866575
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 9,
+        "result": 19.663647783745983
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 10,
+        "result": 14.328847465693235
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 11,
+        "result": 13.058526938296708
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 12,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 13,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 14,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 15,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 16,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 17,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 18,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 19,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 37,
+        "stopLossPct": 20,
+        "result": 21.61280674339674
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 2,
+        "result": 31.810170660969817
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 3,
+        "result": 28.976409971995622
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 4,
+        "result": 18.729628827542
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 5,
+        "result": 26.3506089332491
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 6,
+        "result": 17.96608846459874
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 7,
+        "result": 22.450014886756307
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 8,
+        "result": 22.703771893522482
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 9,
+        "result": 20.050795729000473
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 10,
+        "result": 14.69873572498849
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 11,
+        "result": 13.42430532804414
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 12,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 13,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 14,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 15,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 16,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 17,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 18,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 19,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 38,
+        "stopLossPct": 20,
+        "result": 22.006260805004676
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 2,
+        "result": 32.293414304122635
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 3,
+        "result": 29.449264456009278
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 4,
+        "result": 19.164916469588807
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 5,
+        "result": 26.81383668167933
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 6,
+        "result": 18.398576808041852
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 7,
+        "result": 22.898942241916174
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 8,
+        "result": 23.153629574921997
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 9,
+        "result": 20.49092704512397
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 10,
+        "result": 15.119245270183873
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 11,
+        "result": 13.84014254495958
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 12,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 13,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 14,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 15,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 16,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 17,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 18,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 19,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 39,
+        "stopLossPct": 20,
+        "result": 22.453561264925266
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 2,
+        "result": 31.911013336111754
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 3,
+        "result": 29.07508465048639
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 4,
+        "result": 18.82046410474055
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 5,
+        "result": 26.44727471667651
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 6,
+        "result": 18.056339587688473
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 7,
+        "result": 22.54369648211752
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 8,
+        "result": 22.797647628192223
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 9,
+        "result": 20.142641778008038
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 10,
+        "result": 14.786487127538859
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 11,
+        "result": 13.511081715010642
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 12,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 13,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 14,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 15,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 16,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 17,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 18,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 19,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 40,
+        "stopLossPct": 20,
+        "result": 22.099602901915276
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 2,
+        "result": 31.83282306387684
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 3,
+        "result": 24.03964257302232
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 4,
+        "result": 14.65496991110811
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 5,
+        "result": 33.37573435686691
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 6,
+        "result": 25.8497668432281
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 7,
+        "result": 24.21721972611598
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 8,
+        "result": 24.474638966903004
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 9,
+        "result": 21.783374915515616
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 10,
+        "result": 16.354073709463957
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 11,
+        "result": 15.061250668247686
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 12,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 13,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 14,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 15,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 16,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 17,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 18,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 19,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 41,
+        "stopLossPct": 20,
+        "result": 23.76706136289902
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 2,
+        "result": 29.400087483752724
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 3,
+        "result": 21.750716000562953
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 4,
+        "result": 12.539220447064073
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 5,
+        "result": 30.914527147961834
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 6,
+        "result": 23.52743771126765
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 7,
+        "result": 21.92501628945438
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 8,
+        "result": 22.17768532515962
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 9,
+        "result": 19.536083669381714
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 10,
+        "result": 14.206970367314916
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 11,
+        "result": 12.938004029900258
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 12,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 13,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 14,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 15,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 16,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 17,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 18,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 19,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 42,
+        "stopLossPct": 20,
+        "result": 21.48316478215875
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 2,
+        "result": 25.231799950959722
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 3,
+        "result": 21.24625272640922
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 4,
+        "result": 12.072924186291694
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 5,
+        "result": 30.372094436526858
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 6,
+        "result": 23.015612748568017
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 7,
+        "result": 21.419830817540387
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 8,
+        "result": 21.671452941545905
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 9,
+        "result": 19.04079652752147
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 10,
+        "result": 13.733763932928087
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 11,
+        "result": 12.470055444784466
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 12,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 13,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 14,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 15,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 16,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 17,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 18,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 19,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 43,
+        "stopLossPct": 20,
+        "result": 20.9798100827067
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 2,
+        "result": 26.33248016366559
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 3,
+        "result": 18.642546292330024
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 4,
+        "result": 16.61543104139215
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 5,
+        "result": 23.59209623444076
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 6,
+        "result": 15.390628355575735
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 7,
+        "result": 19.32920568266203
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 8,
+        "result": 19.576495338623428
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 9,
+        "result": 16.991133967289827
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 10,
+        "result": 11.77547866797986
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 11,
+        "result": 10.533528905002331
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 12,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 13,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 14,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 15,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 16,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 17,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 18,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 19,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 44,
+        "stopLossPct": 20,
+        "result": 18.896761291839884
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 2,
+        "result": 24.456830028302758
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 3,
+        "result": 16.881068106160367
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 4,
+        "result": 14.952568617515189
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 5,
+        "result": 21.757132401453436
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 6,
+        "result": 13.67743118399838
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 7,
+        "result": 17.627646545686748
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 8,
+        "result": 17.871410007275482
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 9,
+        "result": 15.322914256881868
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 10,
+        "result": 10.181630909342493
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 11,
+        "result": 8.957390565905426
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 12,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 13,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 14,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 15,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 16,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 17,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 18,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 19,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 45,
+        "stopLossPct": 20,
+        "result": 17.201368538862827
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 2,
+        "result": 20.660564979158536
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 3,
+        "result": 15.00291474388039
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 4,
+        "result": 11.299864268044912
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 5,
+        "result": 17.24666463698404
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 6,
+        "result": 9.61144798670457
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 7,
+        "result": 13.420373128170468
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 8,
+        "result": 13.65541772508559
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 9,
+        "result": 11.198075872097506
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 10,
+        "result": 6.240684538002733
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 11,
+        "result": 5.060232487580415
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 12,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 13,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 14,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 15,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 16,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 17,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 18,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 19,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 46,
+        "stopLossPct": 20,
+        "result": 13.009342116243152
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 2,
+        "result": 22.003684406846226
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 3,
+        "result": 16.28305667807319
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 4,
+        "result": 12.581971952734476
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 5,
+        "result": 18.668009857119085
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 6,
+        "result": 10.940233825946597
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 7,
+        "result": 14.726907803161337
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 8,
+        "result": 14.96465997286585
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 9,
+        "result": 12.479011015512988
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 10,
+        "result": 7.4645135064263375
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 11,
+        "result": 6.270463356354903
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 12,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 13,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 14,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 15,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 16,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 17,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 18,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 19,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 47,
+        "stopLossPct": 20,
+        "result": 14.311141960490966
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 2,
+        "result": 22.409531208210574
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 3,
+        "result": 25.432918433892898
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 4,
+        "result": 19.200157637599006
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 5,
+        "result": 25.643966224426894
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 6,
+        "result": 17.46190914080653
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 7,
+        "result": 21.47118457964585
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 8,
+        "result": 18.872945575456395
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 9,
+        "result": 19.0911440918737
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 10,
+        "result": 13.641712701699579
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 11,
+        "result": 12.37902700501405
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 12,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 13,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 14,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 15,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 16,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 17,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 18,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 19,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 48,
+        "stopLossPct": 20,
+        "result": 20.881894212460065
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 2,
+        "result": 21.661418015110012
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 3,
+        "result": 23.344864555534166
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 4,
+        "result": 17.215859141129457
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 5,
+        "result": 23.552399080467403
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 6,
+        "result": 15.506546880219885
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 7,
+        "result": 19.449080803083945
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 8,
+        "result": 16.894094105365077
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 9,
+        "result": 17.108660319639128
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 10,
+        "result": 11.74994440105871
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 11,
+        "result": 10.508278352158031
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 12,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 13,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 14,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 15,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 16,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 17,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 18,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 19,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 49,
+        "stopLossPct": 20,
+        "result": 18.869600221495496
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 2,
+        "result": 22.58608465458752
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 3,
+        "result": 21.865949968153508
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 4,
+        "result": 15.81043180874045
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 5,
+        "result": 22.070996137877007
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 6,
+        "result": 14.121614335726226
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 7,
+        "result": 18.01687696804429
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 8,
+        "result": 15.492524760958132
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 9,
+        "result": 15.704518309516443
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 10,
+        "result": 10.41005381453746
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 11,
+        "result": 9.1832754388204
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 12,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 13,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 14,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 15,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 16,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 17,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 18,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 19,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 50,
+        "stopLossPct": 20,
+        "result": 17.44434440401856
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 2,
+        "result": 22.74078132611845
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 3,
+        "result": 22.0197378706398
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 4,
+        "result": 15.9565779914809
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 5,
+        "result": 22.22504279697543
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 6,
+        "result": 14.26562932680137
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 7,
+        "result": 18.165807559170336
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 8,
+        "result": 15.638269763072895
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 9,
+        "result": 15.850530835440713
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 10,
+        "result": 10.549385027185144
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 11,
+        "result": 9.321058526883116
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 12,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 13,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 14,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 15,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 16,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 17,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 18,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 19,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 51,
+        "stopLossPct": 20,
+        "result": 17.592552491589302
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 2,
+        "result": 20.770871201590616
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 3,
+        "result": 18.23312114545799
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 4,
+        "result": 4.655227866626446
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 5,
+        "result": 22.062996480946367
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 6,
+        "result": 11.06256026448349
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 7,
+        "result": 5.78618206527055
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 8,
+        "result": 11.088638042019703
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 9,
+        "result": 11.292547988847746
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 10,
+        "result": 6.199968610862998
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 11,
+        "result": 5.019968959631151
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 12,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 13,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 14,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 15,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 16,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 17,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 18,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 19,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 52,
+        "stopLossPct": 20,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 2,
+        "result": 20.770871201590616
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 3,
+        "result": 18.23312114545799
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 4,
+        "result": 4.655227866626446
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 5,
+        "result": 22.062996480946367
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 6,
+        "result": 11.06256026448349
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 7,
+        "result": 5.78618206527055
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 8,
+        "result": 11.088638042019703
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 9,
+        "result": 11.292547988847746
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 10,
+        "result": 6.199968610862998
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 11,
+        "result": 5.019968959631151
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 12,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 13,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 14,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 15,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 16,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 17,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 18,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 19,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 53,
+        "stopLossPct": 20,
+        "result": 12.966032153024026
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 2,
+        "result": 21.647527000188603
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 3,
+        "result": 19.09135583572106
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 4,
+        "result": 5.414902873108149
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 5,
+        "result": 22.949031603444144
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 6,
+        "result": 11.868745038132039
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 7,
+        "result": 6.5540664814081175
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 8,
+        "result": 11.895012109946473
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 9,
+        "result": 12.100402205385672
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 10,
+        "result": 6.970856635163436
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 11,
+        "result": 5.782291561439379
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 12,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 13,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 14,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 15,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 16,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 17,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 18,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 19,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 54,
+        "stopLossPct": 20,
+        "result": 13.786033914593245
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 2,
+        "result": 19.67555882022347
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 3,
+        "result": 17.16082448824389
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 4,
+        "result": 3.706073772459331
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 5,
+        "result": 20.95596537301315
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 6,
+        "result": 10.055295879009572
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 7,
+        "result": 4.826770960251361
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 8,
+        "result": 10.081137148252637
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 9,
+        "result": 10.283197765956647
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 10,
+        "result": 5.2368047339864825
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 11,
+        "result": 4.067506903608846
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 12,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 13,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 14,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 15,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 16,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 17,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 18,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 19,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 55,
+        "stopLossPct": 20,
+        "result": 11.941504529267878
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 2,
+        "result": 19.968291710031664
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 3,
+        "result": 18.46719343619883
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 4,
+        "result": 4.862419292238883
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 5,
+        "result": 22.30465097610113
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 6,
+        "result": 11.282436620996686
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 7,
+        "result": 5.995612500032439
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 8,
+        "result": 11.308566026072404
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 9,
+        "result": 11.512879664081865
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 10,
+        "result": 6.410218240480445
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 11,
+        "result": 5.227882482252844
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 12,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 13,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 14,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 15,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 16,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 17,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 18,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 19,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 56,
+        "stopLossPct": 20,
+        "result": 13.189676912341818
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 2,
+        "result": 19.03276580131238
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 3,
+        "result": 17.543373256607463
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 4,
+        "result": 4.044690634936851
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 5,
+        "result": 21.35090588134257
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 6,
+        "result": 10.414643963783728
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 7,
+        "result": 5.169047077695504
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 8,
+        "result": 10.440569608890183
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 9,
+        "result": 10.643289986721138
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 10,
+        "result": 5.580419677064601
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 11,
+        "result": 4.4073039028749195
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 12,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 13,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 14,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 15,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 16,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 17,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 18,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 19,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 57,
+        "stopLossPct": 20,
+        "result": 12.30701138596245
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 2,
+        "result": 24.562563734369725
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 3,
+        "result": 20.543900225951127
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 4,
+        "result": 14.55407470852404
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 5,
+        "result": 20.74672197420243
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 6,
+        "result": 13.233196025417493
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 7,
+        "result": 14.373364877758888
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 8,
+        "result": 14.397064229363332
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 9,
+        "result": 14.607046993536441
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 10,
+        "result": 9.362801133072352
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 11,
+        "result": 8.147658898260433
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 12,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 13,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 14,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 15,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 16,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 17,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 18,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 19,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 58,
+        "stopLossPct": 20,
+        "result": 16.33037062762116
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 2,
+        "result": 26.573359423511157
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 3,
+        "result": 22.489823203608665
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 4,
+        "result": 16.403304787704947
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 5,
+        "result": 22.695919074395878
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 6,
+        "result": 15.061103348529251
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 7,
+        "result": 16.21967778393222
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 8,
+        "result": 16.243759710787344
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 9,
+        "result": 16.4571321967543
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 10,
+        "result": 11.12822922380892
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 11,
+        "result": 9.893471121322182
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 12,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 13,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 14,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 15,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 16,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 17,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 18,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 19,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 59,
+        "stopLossPct": 20,
+        "result": 18.20827519831617
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 2,
+        "result": 23.435893732880686
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 3,
+        "result": 21.891407232570238
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 4,
+        "result": 7.893396328550334
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 5,
+        "result": 25.83978387733181
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 6,
+        "result": 14.49897989950934
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 7,
+        "result": 9.059343716665989
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 8,
+        "result": 14.347544799327189
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 9,
+        "result": 14.55743666757682
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 10,
+        "result": 9.315460900910367
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 11,
+        "result": 8.100844668678056
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 12,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 13,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 14,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 15,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 16,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 17,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 18,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 19,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 60,
+        "stopLossPct": 20,
+        "result": 16.28001432094343
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 2,
+        "result": 25.37050826709863
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 3,
+        "result": 23.1205387227113
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 4,
+        "result": 8.94112636556747
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 5,
+        "result": 28.507908834779812
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 6,
+        "result": 21.192241299178676
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 7,
+        "result": 11.549376194757532
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 8,
+        "result": 16.958316977454924
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 9,
+        "result": 17.173001076713952
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 10,
+        "result": 11.81134102199345
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 11,
+        "result": 10.568992788415798
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 12,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 13,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 14,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 15,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 16,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 17,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 18,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 19,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 61,
+        "stopLossPct": 20,
+        "result": 18.93490845788505
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 2,
+        "result": 21.93744919465933
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 3,
+        "result": 19.74909125625365
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 4,
+        "result": 5.957958095767808
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 5,
+        "result": 24.988937360519486
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 6,
+        "result": 17.873596992377315
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 7,
+        "result": 8.49478542007162
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 8,
+        "result": 13.75561151867796
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 9,
+        "result": 13.964416857414651
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 10,
+        "result": 8.749576784112561
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 11,
+        "result": 7.541248153178002
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 12,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 13,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 14,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 15,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 16,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 17,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 18,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 19,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 62,
+        "stopLossPct": 20,
+        "result": 15.67807738848247
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 2,
+        "result": 21.411547629812777
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 3,
+        "result": 19.2326278162149
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 4,
+        "result": 5.5009741557350935
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 5,
+        "result": 24.449875093918543
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 6,
+        "result": 17.365222333715792
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 7,
+        "result": 8.02686044864613
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 8,
+        "result": 13.264997236495837
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 9,
+        "result": 13.472902022899232
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 10,
+        "result": 8.280552928152792
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 11,
+        "result": 7.077435673395593
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 12,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 13,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 14,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 15,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 16,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 17,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 18,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 19,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 63,
+        "stopLossPct": 20,
+        "result": 15.17917174203145
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 2,
+        "result": 20.658842835914694
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 3,
+        "result": 18.493431485236705
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 4,
+        "result": 4.846908784209827
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 5,
+        "result": 23.678333840949488
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 6,
+        "result": 16.637603196886573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 7,
+        "result": 7.357135555776859
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 8,
+        "result": 12.562797914725271
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 9,
+        "result": 12.769413771595556
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 10,
+        "result": 7.6092552397034705
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 11,
+        "result": 6.4135968481512275
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 12,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 13,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 14,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 15,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 16,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 17,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 18,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 19,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 64,
+        "stopLossPct": 20,
+        "result": 14.465105276197573
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 2,
+        "result": 20.68832180348007
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 3,
+        "result": 19.831968396458795
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 4,
+        "result": 6.031290531587038
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 5,
+        "result": 22.735567023286748
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 6,
+        "result": 17.955176121888417
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 7,
+        "result": 8.569873568536568
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 8,
+        "result": 14.29001465431631
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 9,
+        "result": 14.499800922488228
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 10,
+        "result": 9.260462480711704
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 11,
+        "result": 8.046457342037137
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 12,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 13,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 14,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 15,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 16,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 17,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 18,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 19,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 65,
+        "stopLossPct": 20,
+        "result": 16.22151191848698
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 2,
+        "result": 26.7995736659254
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 3,
+        "result": 25.899857394333846
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 4,
+        "result": 11.400359485862245
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 5,
+        "result": 28.950484517795356
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 6,
+        "result": 23.92803065319702
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 7,
+        "result": 14.067487854130487
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 8,
+        "result": 20.077277700797293
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 9,
+        "result": 20.29768684202707
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 10,
+        "result": 14.793045872782931
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 11,
+        "result": 13.517567585307532
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 12,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 13,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 14,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 15,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 16,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 17,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 18,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 19,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 66,
+        "stopLossPct": 20,
+        "result": 22.10657950874309
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 2,
+        "result": 25.165586259088833
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 3,
+        "result": 24.277464072674466
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 4,
+        "result": 9.964812194539736
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 5,
+        "result": 27.28877965778789
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 6,
+        "result": 22.331047038923316
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 7,
+        "result": 12.597570934897067
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 8,
+        "result": 18.529916349825818
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 9,
+        "result": 18.747485215250965
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 10,
+        "result": 13.313779137685541
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 11,
+        "result": 12.054737147266788
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 12,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 13,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 14,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 15,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 16,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 17,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 18,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 19,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 67,
+        "stopLossPct": 20,
+        "result": 20.533067804872225
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 2,
+        "result": 29.01708367096051
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 3,
+        "result": 25.539600226371697
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 4,
+        "result": 19.257479091028944
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 5,
+        "result": 25.270056052621477
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 6,
+        "result": 23.57341578485437
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 7,
+        "result": 20.450638771491487
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 8,
+        "result": 23.568534410723714
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 9,
+        "result": 20.896861230529794
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 10,
+        "result": 15.507082248446697
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 11,
+        "result": 14.223670223463976
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 12,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 13,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 14,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 15,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 16,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 17,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 18,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 19,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 68,
+        "stopLossPct": 20,
+        "result": 22.86610756912536
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 2,
+        "result": 31.382650389316602
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 3,
+        "result": 27.841406248344917
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 4,
+        "result": 21.44410054786071
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 5,
+        "result": 27.56691990175665
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 6,
+        "result": 25.839171228526865
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 7,
+        "result": 22.659137167016
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 8,
+        "result": 25.834200352945246
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 9,
+        "result": 23.11354124796073
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 10,
+        "result": 17.624939060325996
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 11,
+        "result": 16.31799529298909
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 12,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 13,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 14,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 15,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 16,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 17,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 18,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 19,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 69,
+        "stopLossPct": 20,
+        "result": 25.11889430565345
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 2,
+        "result": 36.20091971361999
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 3,
+        "result": 35.91964452910825
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 4,
+        "result": 25.874166199934006
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 5,
+        "result": 31.631622554650658
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 6,
+        "result": 30.744795995527983
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 7,
+        "result": 23.378635290800194
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 8,
+        "result": 30.644906530333156
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 9,
+        "result": 27.82023522893296
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 10,
+        "result": 22.12180095768963
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 11,
+        "result": 20.764892058159784
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 12,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 13,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 14,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 15,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 16,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 17,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 18,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 19,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 70,
+        "stopLossPct": 20,
+        "result": 29.902253965077435
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 2,
+        "result": 35.527644653284135
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 3,
+        "result": 35.247759882047305
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 4,
+        "result": 25.251938853590218
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 5,
+        "result": 30.98093466793203
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 6,
+        "result": 30.098491913311936
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 7,
+        "result": 22.768743975130402
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 8,
+        "result": 29.9990962266162
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 9,
+        "result": 27.188387978805295
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 10,
+        "result": 21.518122487081673
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 11,
+        "result": 20.167921126114088
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 12,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 13,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 14,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 15,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 16,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 17,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 18,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 19,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 71,
+        "stopLossPct": 20,
+        "result": 29.26011477791186
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 2,
+        "result": 30.2653566843007
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 3,
+        "result": 32.64932583823176
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 4,
+        "result": 28.640313174372167
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 5,
+        "result": 17.965472165334088
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 6,
+        "result": 21.818407221461804
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 7,
+        "result": 31.918666674633823
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 8,
+        "result": 27.777261835331974
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 9,
+        "result": 25.014591831094528
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 10,
+        "result": 24.642018724361662
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 11,
+        "result": 18.114112848695825
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 12,
+        "result": 16.786987985227352
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 13,
+        "result": 15.459863121758843
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 14,
+        "result": 24.539354703363333
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 15,
+        "result": 24.539354703363333
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 16,
+        "result": 24.539354703363333
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 17,
+        "result": 24.539354703363333
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 18,
+        "result": 24.539354703363333
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 19,
+        "result": 24.539354703363333
+    },
+    {
+        "smaPeriod": 72,
+        "stopLossPct": 20,
+        "result": 24.539354703363333
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 2,
+        "result": 33.277616844363585
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 3,
+        "result": 37.170722635099004
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 4,
+        "result": 33.025061428908614
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 5,
+        "result": 21.986364880912095
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 6,
+        "result": 25.970628521721466
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 7,
+        "result": 36.415158708653564
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 8,
+        "result": 32.132592695281474
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 9,
+        "result": 29.275756156619337
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 10,
+        "result": 28.890483770483844
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 11,
+        "result": 22.14007203185964
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 12,
+        "result": 20.767711671951055
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 13,
+        "result": 19.395351312042514
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 14,
+        "result": 28.784320411869196
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 15,
+        "result": 28.784320411869196
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 16,
+        "result": 28.784320411869196
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 17,
+        "result": 28.784320411869196
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 18,
+        "result": 28.784320411869196
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 19,
+        "result": 28.784320411869196
+    },
+    {
+        "smaPeriod": 73,
+        "stopLossPct": 20,
+        "result": 28.784320411869196
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 2,
+        "result": 30.709917685562832
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 3,
+        "result": 34.17913051192321
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 4,
+        "result": 27.61550818682577
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 5,
+        "result": 19.73200601899396
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 6,
+        "result": 23.642638807243348
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 7,
+        "result": 33.89414972346865
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 8,
+        "result": 29.690727314821743
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 9,
+        "result": 26.886686306006467
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 10,
+        "result": 26.508533914132588
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 11,
+        "result": 19.882872597733094
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 12,
+        "result": 18.535874029219247
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 13,
+        "result": 17.188875460705365
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 14,
+        "result": 26.404332498629614
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 15,
+        "result": 26.404332498629614
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 16,
+        "result": 26.404332498629614
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 17,
+        "result": 26.404332498629614
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 18,
+        "result": 26.404332498629614
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 19,
+        "result": 26.404332498629614
+    },
+    {
+        "smaPeriod": 74,
+        "stopLossPct": 20,
+        "result": 26.404332498629614
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 2,
+        "result": 31.37982855877879
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 3,
+        "result": 34.866821699250266
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 4,
+        "result": 28.269559677631477
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 5,
+        "result": 20.345653201429215
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 6,
+        "result": 24.276328657231225
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 7,
+        "result": 34.58038033510088
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 8,
+        "result": 30.355414661595955
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 9,
+        "result": 27.537002458964505
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 10,
+        "result": 27.156911970857855
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 11,
+        "result": 20.497292997406202
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 12,
+        "result": 19.143390828895917
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 13,
+        "result": 17.789488660385725
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 14,
+        "result": 27.052176505127573
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 15,
+        "result": 27.052176505127573
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 16,
+        "result": 27.052176505127573
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 17,
+        "result": 27.052176505127573
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 18,
+        "result": 27.052176505127573
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 19,
+        "result": 27.052176505127573
+    },
+    {
+        "smaPeriod": 75,
+        "stopLossPct": 20,
+        "result": 27.052176505127573
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 2,
+        "result": 29.387783161945265
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 3,
+        "result": 32.82190480219882
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 4,
+        "result": 26.32467370302864
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 5,
+        "result": 18.520913383158057
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 6,
+        "result": 22.39199000986988
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 7,
+        "result": 32.53980660249999
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 8,
+        "result": 28.378901930702977
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 9,
+        "result": 25.603223876199298
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 10,
+        "result": 25.228896506491584
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 11,
+        "result": 18.67025394217553
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 12,
+        "result": 17.336880302375757
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 13,
+        "result": 16.003506662576072
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 14,
+        "result": 25.125749091260985
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 15,
+        "result": 25.125749091260985
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 16,
+        "result": 25.125749091260985
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 17,
+        "result": 25.125749091260985
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 18,
+        "result": 25.125749091260985
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 19,
+        "result": 25.125749091260985
+    },
+    {
+        "smaPeriod": 76,
+        "stopLossPct": 20,
+        "result": 25.125749091260985
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 2,
+        "result": 29.35018721993494
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 3,
+        "result": 33.128570828689774
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 4,
+        "result": 29.105074116579672
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 5,
+        "result": 18.391666276951327
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 6,
+        "result": 22.258521492963318
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 7,
+        "result": 32.39527188730425
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 8,
+        "result": 28.238904683812834
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 9,
+        "result": 25.4662535074024
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 10,
+        "result": 25.09233434184975
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 11,
+        "result": 18.54084398002593
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 12,
+        "result": 17.208924384744716
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 13,
+        "result": 15.877004789463516
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 14,
+        "result": 24.98929940891916
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 15,
+        "result": 24.98929940891916
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 16,
+        "result": 24.98929940891916
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 17,
+        "result": 24.98929940891916
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 18,
+        "result": 24.98929940891916
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 19,
+        "result": 24.98929940891916
+    },
+    {
+        "smaPeriod": 77,
+        "stopLossPct": 20,
+        "result": 24.98929940891916
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 2,
+        "result": 29.282445804285324
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 3,
+        "result": 28.74846653142471
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 4,
+        "result": 18.125288864792346
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 5,
+        "result": 25.673247133388795
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 6,
+        "result": 24.826563250245144
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 7,
+        "result": 24.742456239593686
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 8,
+        "result": 25.000963944482844
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 9,
+        "result": 22.298320229709677
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 10,
+        "result": 16.846061922844
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 11,
+        "result": 15.54777234592355
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 12,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 13,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 14,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 15,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 16,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 17,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 18,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 19,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 78,
+        "stopLossPct": 20,
+        "result": 24.29039443972184
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 2,
+        "result": 27.223530281231433
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 3,
+        "result": 26.698055010650695
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 4,
+        "result": 16.24405905516187
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 5,
+        "result": 23.97101667715071
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 6,
+        "result": 23.135801035065196
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 7,
+        "result": 23.052833244720222
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 8,
+        "result": 23.30783949087834
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 9,
+        "result": 20.64180279111104
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 10,
+        "result": 15.26339472967884
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 11,
+        "result": 13.98269034379353
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 12,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 13,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 14,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 15,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 16,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 17,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 18,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 19,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 79,
+        "stopLossPct": 20,
+        "result": 22.606894572732763
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 2,
+        "result": 20.764399643392952
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 3,
+        "result": 23.9851574425563
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 4,
+        "result": 24.52037763505803
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 5,
+        "result": 19.36306544312929
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 6,
+        "result": 10.474898783388507
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 7,
+        "result": 25.703256781423445
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 8,
+        "result": 25.963755583413057
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 9,
+        "result": 19.12447066439798
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 10,
+        "result": 18.769451514446992
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 11,
+        "result": 17.449790942064247
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 12,
+        "result": 11.284514235155603
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 13,
+        "result": 10.019917482483379
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 14,
+        "result": 17.798380527221962
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 15,
+        "result": 17.798380527221962
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 16,
+        "result": 17.798380527221962
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 17,
+        "result": 17.798380527221962
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 18,
+        "result": 17.798380527221962
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 19,
+        "result": 17.798380527221962
+    },
+    {
+        "smaPeriod": 80,
+        "stopLossPct": 20,
+        "result": 17.798380527221962
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 2,
+        "result": 21.0174121725286
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 3,
+        "result": 24.244917755632507
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 4,
+        "result": 24.78125928368467
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 5,
+        "result": 19.613142048174595
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 6,
+        "result": 10.706353861455646
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 7,
+        "result": 25.96661667070188
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 8,
+        "result": 26.227661241650896
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 9,
+        "result": 19.374047391428032
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 10,
+        "result": 19.018284443691574
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 11,
+        "result": 17.695859060983892
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 12,
+        "result": 11.517665532089286
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 13,
+        "result": 10.250419332860965
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 14,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 15,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 16,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 17,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 18,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 19,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 81,
+        "stopLossPct": 20,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 2,
+        "result": 21.0174121725286
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 3,
+        "result": 24.244917755632507
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 4,
+        "result": 24.78125928368467
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 5,
+        "result": 19.613142048174595
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 6,
+        "result": 10.706353861455646
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 7,
+        "result": 25.96661667070188
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 8,
+        "result": 26.227661241650896
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 9,
+        "result": 19.374047391428032
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 10,
+        "result": 19.018284443691574
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 11,
+        "result": 17.695859060983892
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 12,
+        "result": 11.517665532089286
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 13,
+        "result": 10.250419332860965
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 14,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 15,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 16,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 17,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 18,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 19,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 82,
+        "stopLossPct": 20,
+        "result": 18.04517897339723
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 2,
+        "result": 17.927807779961878
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 3,
+        "result": 21.0729143491753
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 4,
+        "result": 21.595562945679557
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 5,
+        "result": 16.55938901837182
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 6,
+        "result": 7.879993331718197
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 7,
+        "result": 22.75065786613144
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 8,
+        "result": 23.005037904774053
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 9,
+        "result": 16.32639850720618
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 10,
+        "result": 15.979718275306205
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 11,
+        "result": 14.691054738913953
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 12,
+        "result": 8.670592015217734
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 13,
+        "result": 7.435698924135704
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 14,
+        "result": 15.03145642777232
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 15,
+        "result": 15.03145642777232
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 16,
+        "result": 15.03145642777232
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 17,
+        "result": 15.03145642777232
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 18,
+        "result": 15.03145642777232
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 19,
+        "result": 15.03145642777232
+    },
+    {
+        "smaPeriod": 83,
+        "stopLossPct": 20,
+        "result": 15.03145642777232
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 2,
+        "result": 20.105022735893037
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 3,
+        "result": 19.608949256555317
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 4,
+        "result": 23.840492985540696
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 5,
+        "result": 18.711339858486717
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 6,
+        "result": 9.871702830514478
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 7,
+        "result": 25.0169135795862
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 8,
+        "result": 25.27599005102995
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 9,
+        "result": 18.47404781373834
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 10,
+        "result": 18.12096707800456
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 11,
+        "result": 16.80851188824894
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 12,
+        "result": 10.676897759889034
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 13,
+        "result": 9.419205739890295
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 14,
+        "result": 16.912549477193988
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 15,
+        "result": 16.912549477193988
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 16,
+        "result": 16.912549477193988
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 17,
+        "result": 16.912549477193988
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 18,
+        "result": 16.912549477193988
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 19,
+        "result": 16.912549477193988
+    },
+    {
+        "smaPeriod": 84,
+        "stopLossPct": 20,
+        "result": 16.912549477193988
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 2,
+        "result": 21.893849725793586
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 3,
+        "result": 17.748676165198486
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 4,
+        "result": 16.627987653743112
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 5,
+        "result": 10.63299996093432
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 6,
+        "result": 11.5081162208332
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 7,
+        "result": 14.056646517850332
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 8,
+        "result": 8.346370833818838
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 9,
+        "result": 24.392901285364406
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 10,
+        "result": 24.02218096377173
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 11,
+        "result": 18.548241118185434
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 12,
+        "result": 17.216238408992375
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 13,
+        "result": 15.884235699799266
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 14,
+        "result": 9.7724557987761
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 15,
+        "result": 8.49603189413916
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 16,
+        "result": 16.139049340076145
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 17,
+        "result": 16.139049340076145
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 18,
+        "result": 16.139049340076145
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 19,
+        "result": 16.139049340076145
+    },
+    {
+        "smaPeriod": 85,
+        "stopLossPct": 20,
+        "result": 16.139049340076145
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 2,
+        "result": 27.24159339942691
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 3,
+        "result": 26.919869967914895
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 4,
+        "result": 17.828347439120627
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 5,
+        "result": 12.23162374281621
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 6,
+        "result": 13.119385250204395
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 7,
+        "result": 16.138605514726752
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 8,
+        "result": 10.324096011816964
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 9,
+        "result": 26.663535464829693
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 10,
+        "result": 26.28604811533967
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 11,
+        "result": 20.71218846097583
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 12,
+        "result": 19.355871736695153
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 13,
+        "result": 17.999555012414532
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 14,
+        "result": 11.776212343763728
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 15,
+        "result": 10.476488944417651
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 16,
+        "result": 18.25901995156004
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 17,
+        "result": 18.25901995156004
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 18,
+        "result": 18.25901995156004
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 19,
+        "result": 18.25901995156004
+    },
+    {
+        "smaPeriod": 86,
+        "stopLossPct": 20,
+        "result": 18.25901995156004
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 2,
+        "result": 26.951102037592534
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 3,
+        "result": 27.33080926698995
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 4,
+        "result": 18.25352261772627
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 5,
+        "result": 11.369084706153426
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 6,
+        "result": 8.29917128681509
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 7,
+        "result": 15.062455531714514
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 8,
+        "result": 9.301823757704897
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 9,
+        "result": 25.489860605082338
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 10,
+        "result": 25.115871084784757
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 11,
+        "result": 19.593659277799198
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 12,
+        "result": 18.249910297149764
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 13,
+        "result": 16.906161316500313
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 14,
+        "result": 10.740484658884107
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 15,
+        "result": 9.452804604711035
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 16,
+        "result": 17.16322203192869
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 17,
+        "result": 17.16322203192869
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 18,
+        "result": 17.16322203192869
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 19,
+        "result": 17.16322203192869
+    },
+    {
+        "smaPeriod": 87,
+        "stopLossPct": 20,
+        "result": 17.16322203192869
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 2,
+        "result": 26.01433864716577
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 3,
+        "result": 27.5341917272864
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 4,
+        "result": 18.442406144872276
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 5,
+        "result": 11.546971885060756
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 6,
+        "result": 8.472154966343751
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 7,
+        "result": 15.246242043623878
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 8,
+        "result": 9.476408950076657
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 9,
+        "result": 25.690302562052818
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 10,
+        "result": 25.315715677227345
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 11,
+        "result": 19.78468337322267
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 12,
+        "result": 18.43878805442242
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 13,
+        "result": 17.09289273562219
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 14,
+        "result": 10.917367789950294
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 15,
+        "result": 9.627630955183431
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 16,
+        "result": 17.3503640479913
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 17,
+        "result": 17.3503640479913
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 18,
+        "result": 17.3503640479913
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 19,
+        "result": 17.3503640479913
+    },
+    {
+        "smaPeriod": 88,
+        "stopLossPct": 20,
+        "result": 17.3503640479913
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 2,
+        "result": 24.25074928375141
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 3,
+        "result": 25.749331794547654
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 4,
+        "result": 16.78478710011288
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 5,
+        "result": 9.98585546569535
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 6,
+        "result": 6.954071065900426
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 7,
+        "result": 13.633353789607883
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 8,
+        "result": 7.94427036615134
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 9,
+        "result": 23.931248131719947
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 10,
+        "result": 23.561903645917027
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 11,
+        "result": 18.10827895952763
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 12,
+        "result": 16.781219645375696
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 13,
+        "result": 15.45416033122372
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 14,
+        "result": 9.365062773296723
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 15,
+        "result": 8.093375996863088
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 16,
+        "result": 15.708028294380656
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 17,
+        "result": 15.708028294380656
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 18,
+        "result": 15.708028294380656
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 19,
+        "result": 15.708028294380656
+    },
+    {
+        "smaPeriod": 89,
+        "stopLossPct": 20,
+        "result": 15.708028294380656
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 2,
+        "result": 21.48659872134327
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 3,
+        "result": 22.844397511029545
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 4,
+        "result": 14.086942690134254
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 5,
+        "result": 7.4450731196994635
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 6,
+        "result": 4.483325946484692
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 7,
+        "result": 11.008310614715393
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 8,
+        "result": 5.45065066081328
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 9,
+        "result": 21.068313384001268
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 10,
+        "result": 20.70750112213882
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 11,
+        "result": 15.379860574948035
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 12,
+        "result": 14.083457647139621
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 13,
+        "result": 12.78705471933121
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 14,
+        "result": 6.838621354201786
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 15,
+        "result": 5.5963118035715524
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 16,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 17,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 18,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 19,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 90,
+        "stopLossPct": 20,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 2,
+        "result": 21.48659872134327
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 3,
+        "result": 22.844397511029545
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 4,
+        "result": 14.086942690134254
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 5,
+        "result": 7.4450731196994635
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 6,
+        "result": 4.483325946484692
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 7,
+        "result": 11.008310614715393
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 8,
+        "result": 5.45065066081328
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 9,
+        "result": 21.068313384001268
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 10,
+        "result": 20.70750112213882
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 11,
+        "result": 15.379860574948035
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 12,
+        "result": 14.083457647139621
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 13,
+        "result": 12.78705471933121
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 14,
+        "result": 6.838621354201786
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 15,
+        "result": 5.5963118035715524
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 16,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 17,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 18,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 19,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 91,
+        "stopLossPct": 20,
+        "result": 13.035058080751277
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 2,
+        "result": 20.62012906897775
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 3,
+        "result": 18.443626471032186
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 4,
+        "result": 10.452572715451643
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 5,
+        "result": 13.70828506751308
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 6,
+        "result": 11.750209063670663
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 7,
+        "result": 12.897565011686329
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 8,
+        "result": 7.2453190448395075
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 9,
+        "result": 23.12877932684809
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 10,
+        "result": 22.761826388234148
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 11,
+        "result": 17.343514536584117
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 12,
+        "result": 16.025048081116875
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 13,
+        "result": 14.706581625649633
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 14,
+        "result": 8.656911660954576
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 15,
+        "result": 7.3934591997806995
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 16,
+        "result": 14.958805765121669
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 17,
+        "result": 14.958805765121669
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 18,
+        "result": 14.958805765121669
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 19,
+        "result": 14.958805765121669
+    },
+    {
+        "smaPeriod": 92,
+        "stopLossPct": 20,
+        "result": 14.958805765121669
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 2,
+        "result": 20.39758270538183
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 3,
+        "result": 18.225095794886386
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 4,
+        "result": 10.2487856809213
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 5,
+        "result": 13.4984911836247
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 6,
+        "result": 11.54402786613622
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 7,
+        "result": 12.689266921258877
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 8,
+        "result": 7.047449452505862
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 9,
+        "result": 22.901604457241373
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 10,
+        "result": 22.535328553569524
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 11,
+        "result": 17.127013587254623
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 12,
+        "result": 15.810979726723673
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 13,
+        "result": 14.494945866192701
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 14,
+        "result": 8.456437654200053
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 15,
+        "result": 7.195316286127981
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 16,
+        "result": 14.746704647473852
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 17,
+        "result": 14.746704647473852
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 18,
+        "result": 14.746704647473852
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 19,
+        "result": 14.746704647473852
+    },
+    {
+        "smaPeriod": 93,
+        "stopLossPct": 20,
+        "result": 14.746704647473852
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 2,
+        "result": 21.55970701083099
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 3,
+        "result": 19.366250411532583
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 4,
+        "result": 11.312949849396155
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 5,
+        "result": 14.594022773815013
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 6,
+        "result": 12.620694216059093
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 7,
+        "result": 13.776987564063656
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 8,
+        "result": 8.080713078317258
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 9,
+        "result": 24.087898554756247
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 10,
+        "result": 23.718087213573217
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 11,
+        "result": 18.257569087255835
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 12,
+        "result": 16.92883235593834
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 13,
+        "result": 15.60009562462088
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 14,
+        "result": 9.50330138226018
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 15,
+        "result": 8.230007180140856
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 16,
+        "result": 15.854284479598318
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 17,
+        "result": 15.854284479598318
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 18,
+        "result": 15.854284479598318
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 19,
+        "result": 15.854284479598318
+    },
+    {
+        "smaPeriod": 94,
+        "stopLossPct": 20,
+        "result": 15.854284479598318
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 2,
+        "result": 20.465696516750324
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 3,
+        "result": 18.29198054201368
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 4,
+        "result": 10.311157904870834
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 5,
+        "result": 13.562701898203578
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 6,
+        "result": 11.607132861291793
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 7,
+        "result": 12.753019824746206
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 8,
+        "result": 7.108010550292365
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 9,
+        "result": 22.971134895600425
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 10,
+        "result": 22.604651774746653
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 11,
+        "result": 17.193277104597453
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 12,
+        "result": 15.876498710163798
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 13,
+        "result": 14.559720315730083
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 14,
+        "result": 8.51779587394236
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 15,
+        "result": 7.255961038198875
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 16,
+        "result": 14.81162152719753
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 17,
+        "result": 14.81162152719753
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 18,
+        "result": 14.81162152719753
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 19,
+        "result": 14.81162152719753
+    },
+    {
+        "smaPeriod": 95,
+        "stopLossPct": 20,
+        "result": 14.81162152719753
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 2,
+        "result": 21.307910120032794
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 3,
+        "result": 26.60112340599124
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 4,
+        "result": 19.708690957358506
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 5,
+        "result": 24.5344717639211
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 6,
+        "result": 12.387413457652656
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 7,
+        "result": 26.305628771619322
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 8,
+        "result": 26.56737588797896
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 9,
+        "result": 19.69531700770245
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 10,
+        "result": 19.338596600382463
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 11,
+        "result": 18.01261219371154
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 12,
+        "result": 11.817791383530276
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 13,
+        "result": 10.547134663262932
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 14,
+        "result": 18.541803249435088
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 15,
+        "result": 18.541803249435088
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 16,
+        "result": 18.541803249435088
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 17,
+        "result": 18.541803249435088
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 18,
+        "result": 18.541803249435088
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 19,
+        "result": 18.541803249435088
+    },
+    {
+        "smaPeriod": 96,
+        "stopLossPct": 20,
+        "result": 18.541803249435088
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 2,
+        "result": 20.514271039069556
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 3,
+        "result": 25.772854259078944
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 4,
+        "result": 18.925514531512107
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 5,
+        "result": 23.71972338006746
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 6,
+        "result": 11.652135408265003
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 7,
+        "result": 25.479292854698414
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 8,
+        "result": 25.739327529217608
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 9,
+        "result": 18.9122280789459
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 10,
+        "result": 18.557841462191956
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 11,
+        "result": 17.240532112612016
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 12,
+        "result": 11.086240002411378
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 13,
+        "result": 9.823896366020344
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 14,
+        "result": 17.7662610140317
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 15,
+        "result": 17.7662610140317
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 16,
+        "result": 17.7662610140317
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 17,
+        "result": 17.7662610140317
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 18,
+        "result": 17.7662610140317
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 19,
+        "result": 17.7662610140317
+    },
+    {
+        "smaPeriod": 97,
+        "stopLossPct": 20,
+        "result": 17.7662610140317
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 2,
+        "result": 17.92878397166187
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 3,
+        "result": 19.382314165693025
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 4,
+        "result": 16.374112302091888
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 5,
+        "result": 21.065467232439005
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 6,
+        "result": 9.256774679136633
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 7,
+        "result": 22.78728728468506
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 8,
+        "result": 23.041743231620696
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 9,
+        "result": 16.361110894201282
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 10,
+        "result": 16.014327211162783
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 11,
+        "result": 14.725279131038715
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 12,
+        "result": 8.703019870746957
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 13,
+        "result": 7.467758281306597
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 14,
+        "result": 14.827461251492913
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 15,
+        "result": 14.827461251492913
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 16,
+        "result": 14.827461251492913
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 17,
+        "result": 14.827461251492913
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 18,
+        "result": 14.827461251492913
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 19,
+        "result": 14.827461251492913
+    },
+    {
+        "smaPeriod": 98,
+        "stopLossPct": 20,
+        "result": 14.827461251492913
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 2,
+        "result": 18.751945946482447
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 3,
+        "result": 20.215622016225044
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 4,
+        "result": 17.18642241735264
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 5,
+        "result": 21.91052376345162
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 6,
+        "result": 10.019404627301084
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 7,
+        "result": 23.644362397987425
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 8,
+        "result": 23.9005944885644
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 9,
+        "result": 17.17333025753329
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 10,
+        "result": 16.824125968331064
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 11,
+        "result": 15.52608012423847
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 12,
+        "result": 9.461784520836664
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 13,
+        "result": 8.217900605827108
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 14,
+        "result": 15.628975492410774
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 15,
+        "result": 15.628975492410774
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 16,
+        "result": 15.628975492410774
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 17,
+        "result": 15.628975492410774
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 18,
+        "result": 15.628975492410774
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 19,
+        "result": 15.628975492410774
+    },
+    {
+        "smaPeriod": 99,
+        "stopLossPct": 20,
+        "result": 15.628975492410774
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 2,
+        "result": 18.179159161075713
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 3,
+        "result": 19.63577535231121
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 4,
+        "result": 16.621186760330218
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 5,
+        "result": 21.32250192972782
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 6,
+        "result": 9.488738282370322
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 7,
+        "result": 23.04797758671424
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 8,
+        "result": 23.302973770339996
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 9,
+        "result": 16.60815774908566
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 10,
+        "result": 16.260637807880123
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 11,
+        "result": 14.968852943348082
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 12,
+        "result": 8.933807794385103
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 13,
+        "result": 7.695923614903368
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 14,
+        "result": 15.071252007171863
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 15,
+        "result": 15.071252007171863
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 16,
+        "result": 15.071252007171863
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 17,
+        "result": 15.071252007171863
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 18,
+        "result": 15.071252007171863
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 19,
+        "result": 15.071252007171863
+    },
+    {
+        "smaPeriod": 100,
+        "stopLossPct": 20,
+        "result": 15.071252007171863
+    }
+]
