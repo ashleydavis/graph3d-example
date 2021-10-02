@@ -4,6 +4,8 @@ An example of rendering a 3D graph with [Graph3d](https://github.com/visjs/vis-g
 
 I'll be adding support for this in the future to [Data-Forge Notebook](https://www.data-forge-notebook.com/)!
 
+If you like this project, please star this repo and [support my work](https://www.codecapers.com.au/about#support-my-work)
+
 ## Screenshot
 
 This is what the 3D graph looks like:
